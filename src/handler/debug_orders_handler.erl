@@ -40,5 +40,4 @@ hello_to_json(Req, State) ->
     % io:format(element(1,OrdersResponse)),
     % io:format(OrdersResponse),
     % io:format("=========~n"),
-    % Body = "{\"message\": \"[Tracking-Service] Erlang Openshift Contaienr Image by IBM Client Engineering\"}",
 	{OrdersResponse, Req, State}.
