@@ -1,0 +1,7 @@
+_build/
+_rel
+ebin
+.erlang.mk
+rebar.lock
+*~
+deps
