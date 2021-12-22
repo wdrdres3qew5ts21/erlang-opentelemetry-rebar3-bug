@@ -15,7 +15,8 @@
         opentelemetry,
 		opentelemetry_api,
 		opentelemetry_cowboy,
-		opentelemetry_telemetry
+		opentelemetry_telemetry,
+		opentelemetry_exporter
 	]},
 	{mod, {dockerwatch_app, []}},
 	{env, []}
